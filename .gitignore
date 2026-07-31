@@ -1,6 +1,42 @@
+# Python
 __pycache__/
-*.pyc
-*.db
-.env
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
 .vscode/
+
+# PyCharm
 .idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Cache
+.pytest_cache/
+.mypy_cache/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# SQLite Database (Optional)
+# Uncomment if you don't want to upload your local database
+# database.db
+
+# Exported Reports
+exports/*.csv
+exports/*.pdf

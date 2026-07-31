@@ -115,7 +115,7 @@ The application uses SQLite as the backend database.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/SecureBank.git
+git clone https://github.com/Shubhijain03/SecureBank.git
 ```
 
 ## Navigate to the Project
